@@ -17,4 +17,3 @@ Task 03 involves a To-do list app using basic HTML, CSS and JavaScript. There ar
 
 Task 04 involves my portfolio website made using HTML, CSS and JavaScript. There are three files ie. HTML file, CSS file and the JavaScript file respectively. The portfolio website consists of Header, About, Skills, Contact sections respectively. The JavaScript file consists of jQuery statements for text animation and other scripting actions.
 
-# Link to the output of each task
